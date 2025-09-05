@@ -45,13 +45,14 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=Marthak-Nayan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="160](https://github-readme-stats.vercel.app/api?username=Marthak-Nayan&theme=default&hide_border=false&include_all_commits=true&count_private=true)"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Marthak-Nayan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marthak-Nayan&theme=tokyonight&hide_border=false" height="160"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marthak-Nayan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="160"/>
 </p>
+
 
 ---
 
