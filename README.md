@@ -4,8 +4,8 @@
 ---
 
 ## 💫 About Me
-- 🔭 Currently working on **EPS**  
-- 🌱 Learning **Microservices, Docker, and advanced Spring topics**  
+<!--- 🔭 Currently working on **EPS**  
+- 🌱 Learning **Microservices, Docker, and advanced Spring topics**-->  
 - 👨‍💻 Based in **Vadodara, India**  
 
 ---
