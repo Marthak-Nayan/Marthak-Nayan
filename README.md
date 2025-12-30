@@ -10,44 +10,68 @@
 - <a href="https://marthak-nayan.github.io/nayanmarthak/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=%23FF7139"/></a>
 ---
 
-## 💻 Tech Stack
+## 🛠️ Tech Stack & Skills
 
-### Languages:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+### 👨‍💻 Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Frameworks & Tools:
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
-![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) 
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-<!--
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) 
-![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) 
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
--->
+### 🚀 Backend Development
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security_(JWT)-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate_ORM-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge)
 
-### Databases:
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)  
+### 🎨 Frontend Development
+![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+<!--### 🧪 Testing
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-78A641?style=for-the-badge)-->
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### ⚙️ Tools & Technologies
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+
+### 🧠 Core Concepts
+![DSA](https://img.shields.io/badge/Data_Structures_&_Algorithms-0081CB?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOPs-FF6F00?style=for-the-badge)
+![Multithreading](https://img.shields.io/badge/Multithreading-795548?style=for-the-badge)
+![Collections](https://img.shields.io/badge/Collections_Framework-3F51B5?style=for-the-badge)
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Marthak-Nayan&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marthak-Nayan&theme=tokyonight&hide_border=false" height="160"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Marthak-Nayan&show_icons=true&theme=tokyonight" 
+    height="165"
+  />
+  <img 
+    src="https://streak-stats.demolab.com?user=Marthak-Nayan&theme=tokyonight" 
+    height="165"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marthak-Nayan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="160"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marthak-Nayan&layout=compact&theme=tokyonight" 
+    height="165"
+  />
 </p>
 
 ---
@@ -60,9 +84,8 @@
 ---
 
 ## 🌐 Connect with Me
-<p align="center">
+<p align="left">
   <a href="https://github.com/Marthak-Nayan"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://marthak-nayan.github.io/nayanmarthak/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=%23FF7139"/></a>
   <a href="https://www.instagram.com/marthaknayan_/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/marthaknayanmn59/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
   <a href="mailto:nayankhatri59@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
@@ -70,6 +93,7 @@
 
 ---
 
-<p align="center"> 
-  <img src="https://visitcount.itsvg.in/api?id=Marthak-Nayan&label=Profile%20Views&color=1&icon=5&pretty=true" alt="Visitor Count"/>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Marthak-Nayan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+
