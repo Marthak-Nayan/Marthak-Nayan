@@ -1,4 +1,4 @@
-<h1 align="center">🙏 नमस्ते, I'm Nayan Marthak 👋</h1>
+<h1 align="center"> 👋 Hello, I'm Nayan Marthak </h1>
 <h3 align="center">💻 Software Developer | 🌱 Lifelong Learner | 🚀 Tech Explorer</h3>
 
 ---
