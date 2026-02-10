@@ -58,34 +58,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Marthak-Nayan&show_icons=true&theme=tokyonight" 
-    height="165"
-  />
-  <img 
-    src="https://streak-stats.demolab.com?user=Marthak-Nayan&theme=tokyonight" 
-    height="165"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marthak-Nayan&layout=compact&theme=tokyonight" 
-    height="165"
-  />
-</p>
-
----
-
-## 🔝 Top Contributed Repos
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Marthak-Nayan&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
-</p>
-
----
-
 ## 🌐 Connect with Me
 <p align="left">
   <a href="https://github.com/Marthak-Nayan"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
