@@ -8,6 +8,7 @@
 - 🌱 Learning **Microservices, Docker, and advanced Spring topics**-->  
 - 👨‍💻 Based in **Vadodara, India**  
 - <a href="https://marthak-nayan.github.io/nayanmarthak/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=%23FF7139"/></a>
+- <a href="https://drive.google.com/file/d/1hZbZv5rK8h1n_wHErngWC3uJpWljyy2f/view" target="_blank"> <img src="https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=readthedocs" /> </a>
 ---
 
 ## 🛠️ Tech Stack & Skills
